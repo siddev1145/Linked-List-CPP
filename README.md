@@ -1,8 +1,8 @@
 # Linked List CPP
 Experiment 17
 
-
-To use excepttion handling.
+## Aim
+To use Linked List in CPP
 
 ## Software Used 
 VS Code
